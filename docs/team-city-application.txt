@@ -1,0 +1,21 @@
+http://www.jetbrains.com/eforms/openSourceRequest.action?licenseRequest=TCOSL5#
+
+Project details
+Project name: KataRacing
+Project site URL: kataracing.com
+License type: GPL
+License page: kataracing.com\license
+Latest release page: kataracing.com\releases
+VCS page: https://github.com/Karpuscul/KataRacing
+Project type: Other
+No. of developers: 4
+Short Description: Kata Racing is a multiplayer racing game being developed on .Net technology stack and deployed to Web, Android, iOS and Windows Phone platforms.
+
+Contact person details
+Title: Mr
+First name: Oleg
+Last name: Sakharov
+E-mail: karpuscul@gmail.com
+Country: Australia
+Project role: Developer
+Page, confirming your participation in the project: kataracing.com\contributors
