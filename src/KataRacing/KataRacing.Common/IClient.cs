@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace KataRacing.Common
 {
+    /// <summary>
+    /// Создал интерфейс, пока хз что в нем должно быть
+    /// </summary>
     public interface IClient
     {
     }
