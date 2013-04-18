@@ -1,11 +1,12 @@
 http://www.jetbrains.com/eforms/openSourceRequest.action?licenseRequest=TCOSL5#
+http://www.jetbrains.com/eforms/openSourceRequest.action?licenseRequest=YTD05NS#
 
 Project details
 Project name: KataRacing
 Project site URL: kataracing.com
 License type: GPL
-License page: kataracing.com\license
-Latest release page: kataracing.com\releases
+License page: kataracing.com\license.html
+Latest release page: kataracing.com\releases.html
 VCS page: https://github.com/Karpuscul/KataRacing
 Project type: Other
 No. of developers: 4
@@ -18,4 +19,4 @@ Last name: Sakharov
 E-mail: karpuscul@gmail.com
 Country: Australia
 Project role: Developer
-Page, confirming your participation in the project: kataracing.com\contributors
+Page, confirming your participation in the project: kataracing.com\contributors.html
