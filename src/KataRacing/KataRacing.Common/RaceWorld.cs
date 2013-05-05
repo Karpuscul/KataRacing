@@ -11,7 +11,7 @@ namespace KataRacing.Common
     /// </summary>
     public class RaceWorld
     {
-        private List<Car> cars;
+        private readonly List<Car> cars;
 
         /// <summary>
         /// Карта трассы
